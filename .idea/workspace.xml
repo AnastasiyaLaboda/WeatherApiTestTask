@@ -4,11 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7188f6cd-9166-4bbe-8bfc-d427c9ec221a" name="Changes" comment="" />
+    <list default="true" id="7188f6cd-9166-4bbe-8bfc-d427c9ec221a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/weatherapi/constants/ErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/weatherapi/constants/ErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/weatherapi/constants/UrlParametersForApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/weatherapi/constants/UrlParametersForApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/weatherapi/models/AirQuality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/weatherapi/models/AirQuality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/weatherapi/models/Condition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/weatherapi/models/Condition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/weatherapi/models/Current.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/weatherapi/models/Current.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/weatherapi/models/CurrentLocationResp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/weatherapi/models/CurrentLocationResp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/weatherapi/models/Error.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/weatherapi/models/Error.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/weatherapi/models/ErrorResp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/weatherapi/models/ErrorResp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/weatherapi/models/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/weatherapi/models/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/weatherapi/service/WeatherApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/weatherapi/service/WeatherApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/weatherapi/utils/GetRequestUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/weatherapi/utils/GetRequestUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/weatherapi/test/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/weatherapi/test/runner/CucumberTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/weatherapi/test/runner/CucumberTestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/weatherapi/test/steps/ApiKeyErrorStepsDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/weatherapi/test/steps/ApiKeyErrorStepsDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/weatherapi/test/steps/CurrentWeatherReqStepsDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/weatherapi/test/steps/CurrentWeatherReqStepsDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/junit-platform.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/junit-platform.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/weatherapi.test.features/ApiKeyErrors.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/weatherapi.test.features/ApiKeyErrors.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/weatherapi.test.features/CurrentWeatherRequest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/weatherapi.test.features/CurrentWeatherRequest.feature" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2d7nnbEYibABFWM5XWaunSLbsnC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +55,166 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/anduser/IdeaProjects/WeatherApiTestTask/src/test/java/weatherapi/test/steps",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anduser\IdeaProjects\WeatherApiTestTask\src\test\resources\weatherapi.test.features" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anduser\IdeaProjects\WeatherApiTestTask\src\test\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="weatherapi.models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CucumberTestRunner">
+    <configuration name="Feature: ApiKeyErrors" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/weatherapi.test.features/ApiKeyErrors.feature" />
+      <option name="GLUE" value="weatherapi.test.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="WeatherApiTestTask" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: ApiKeyErrors" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: CurrentWeatherRequest" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/weatherapi.test.features/CurrentWeatherRequest.feature" />
+      <option name="GLUE" value="weatherapi.test.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="WeatherApiTestTask" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: CurrentWeatherRequest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: API key provided is invalid" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/weatherapi.test.features/ApiKeyErrors.feature" />
+      <option name="GLUE" value="weatherapi.test.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="WeatherApiTestTask" />
+      <option name="NAME_FILTER" value="^API key provided is invalid$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^API key provided is invalid$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: API key provided is invalid" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Checking current weather for &quot;&lt;city&gt;&quot;" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/weatherapi.test.features/CurrentWeatherRequest.feature" />
+      <option name="GLUE" value="weatherapi.test.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="WeatherApiTestTask" />
+      <option name="NAME_FILTER" value="^Checking current weather for \&quot;.*\&quot;$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Checking current weather for \&quot;.*\&quot;$&quot;" />
+      <shortenClasspath name="NONE" />
+      <option name="SUGGESTED_NAME" value="Scenario: Checking current weather for &quot;&lt;city&gt;&quot;" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CucumberTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeatherApiTestTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weatherapi.test.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="weatherapi.test.runner" />
+      <option name="MAIN_CLASS_NAME" value="weatherapi.test.runner.CucumberTestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="weather-api [clean...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="-Dtest=CucumberTestRunner" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Feature: ApiKeyErrors" />
+      <item itemvalue="Cucumber Java.Feature: CurrentWeatherRequest" />
+      <item itemvalue="Cucumber Java.Scenario: API key provided is invalid" />
+      <item itemvalue="Cucumber Java.Scenario: Checking current weather for &quot;&lt;city&gt;&quot;" />
+      <item itemvalue="JUnit.CucumberTestRunner" />
+      <item itemvalue="Maven.weather-api [clean...]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CucumberTestRunner" />
+        <item itemvalue="Cucumber Java.Feature: ApiKeyErrors" />
+        <item itemvalue="Cucumber Java.Feature: CurrentWeatherRequest" />
+        <item itemvalue="Cucumber Java.Scenario: API key provided is invalid" />
+        <item itemvalue="Cucumber Java.Scenario: Checking current weather for &quot;&lt;city&gt;&quot;" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +225,16 @@
       <updated>1709368153848</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

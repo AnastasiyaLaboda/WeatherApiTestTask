@@ -11,9 +11,7 @@ import lombok.experimental.FieldDefaults;
 @AllArgsConstructor
 @Getter
 @FieldDefaults(level = AccessLevel.PRIVATE)
-public class Error {
-    @JsonProperty("code")
-    Integer code;
-    @JsonProperty("region")
-    String region;
+public class ErrorResp {
+    @JsonProperty("error")
+    Error error;
 }
